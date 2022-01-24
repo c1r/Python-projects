@@ -1,0 +1,23 @@
+Name: Nidal Naseem
+ID #: 1635297
+CMPUT 274 Fa20
+
+Assignment 1: ooclassifier
+
+Included Files:
+    * ooclassifier.py
+    * README
+
+Accessories: None needed
+
+Wiring Instructions: None needed
+
+Running Instructions:
+    1. Change directory to the one containing the file ooclassifier.py, the 
+       driver program and the file to read data from .
+    2. Execute python3 <driver> (which imports all of ooclassifier) <filename to be read from>
+       on the terminal
+
+Notes & Assumptions:
+    1. A driver Program is run with the file in the same directory as ooclassifier.py and data
+    2. ooclassifier.py is to be imported

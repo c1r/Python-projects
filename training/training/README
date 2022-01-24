@@ -1,0 +1,24 @@
+Name: Nidal Naseem
+ID #: 1635297
+CMPUT 274 Fa20
+
+Exercise 5: training
+
+Included Files:
+    * new.training.txt
+    * question.1.txt
+    * question.2.txt
+    * task.3.txt
+    * README
+
+Accessories: None needed
+
+Wiring Instructions: None needed
+
+Running Instructions: 
+    1. execute python3 ooclassifierbasev3.py new.training.txt 
+       or python3 ooclassifierbasev3.py task.3.txt on the terminal to view 
+       corresponding accuracy and precision values
+    2. look for the explanation in the files question.1.txt and question.2.txt
+
+

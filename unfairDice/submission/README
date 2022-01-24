@@ -1,0 +1,21 @@
+Name: Nidal Naseem
+ID #: 1635297
+CMPUT 274 Fa20
+
+Exercise 2: unfairDice
+
+Included Files:
+    * unfairDice.py
+    * README
+
+Accessories: None needed
+
+Wiring Instructions: None needed
+
+Running Instructions:
+    1. change directory to the one containing the file unfairDice.py
+    2. execute python3 unfairDice.py on the terminal or import the function to preferred code.
+
+Notes & Assumptions:
+    1. Input of prob_list sums to 1
+    2. Number of sides on die is greater than or equal to 2

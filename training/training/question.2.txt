@@ -1,0 +1,19 @@
+For task 3, the goal was to decrease accuracy and increase precision by not adding pos other pos features. 
+By closely observing the formulae of Precision and Accuracy, we can see these values are directly proportional to TP 
+(positive instances containing pos features) and the sum of TP and TN (negative instances
+that do not have pos features),  respectively. Thus, the increase in precision
+is greater than the increase of accuracy by the addition of a
+TP instance. 
+Training instances such as:
+1. There is floating water in space
+2. The footprints on the Moon will be there for 100 million years.
+are some of the TP instances and that would increase our precision and accuracy slightly.
+
+Furthermore, to decrease the Accuracy we must change a value that does 
+not affect Precision. From the formulae, those are the TN and FP (positive 
+training instances which do not contain pos features), but increasing TN
+would also increase the overall accuracy as noted earlier. Therefore, we opt
+to increase FP instances such as:
+1. Neutron stars can spin 600 times per second
+2. Pluto is named after the Roman god of the underworld
+to decrease the accuracy below 0.65

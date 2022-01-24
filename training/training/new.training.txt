@@ -1,0 +1,58 @@
+%pos-features space planet moon galaxy Earth rings solar
+%pos-label #solar
+%
+%
+#solar    The hottest planet in our solar system is Venus
+#solar    solar system is 4.57 billion years old
+#solar    The Sun weighs about 330,000 times more than Earth
+#solar    There are 79 known moons orbiting Jupiter
+#solar    NASA found evidence of water on the Earth's Moon
+#solar    Pluto is smaller than the US
+#solar    There are more stars in space than there are grains of sand in the world 
+#solar    The ISS is the largest manned object ever sent into space
+#solar    Outer Space is only 62 miles away
+#solar    Three main types of galaxies: elliptical, spiral & irregular
+#solar    The closest galaxy to us is the Andromeda Galaxy
+#solar    The first ever black hole photographed is 3 million times the size of Earth
+#solar    On Venus, it snows metal and rains sulfuric acid
+#solar    Space is completely silent
+#solar    The first artificial satellite in space was called "Sputnik"
+#solar    Exoplanets are planets that orbit around other stars
+#solar    The center of the Milky Way smells like rum & tastes like raspberries
+#solar    Pluto is named after the Roman god of the underworld
+#solar    A sunset on Mars is blue
+#solar    The word "astronaut" means "star sailor"
+#solar    Mercury has no atmosphere
+#solar    The rings around Saturn are very thin
+% Sources: https://www.nasa.gov/stem-ed-resources/Extreme_Space_Facts.html
+%          https://www.thefactsite.com/100-space-facts/
+%
+%
+#negative	The temperature is -10 currently
+#negative	The security system didn't recognize her thumbprint.
+#negative	I love the chocolate galaxy
+#negative	There is not enough space here
+#negative	This PC is running Windows 10
+#negative	The weather is bad today
+#negative	Artificial intelligence, is intelligence demonstrated by machines
+#negative	The Math midterm was hard
+#negative	Burj Khalifa is the tallest building in the world
+#negative	He turned in the research paper on Friday
+#negative	Iguanas were falling out of the trees
+#negative	The quick brown fox jumps over the lazy dog
+#negative	I left my laptop at home
+#negative	The future of health is on your wrist
+#negative	Jack loves candy
+#negative	I hope it is not raining outside
+#negative	Lionel Messi is the best footballer
+#negative	The game 'Among Us' is very popular among the youth
+#negative	i do not need help now
+#negative	This is a tricky assignment
+#negative	we should not go outside
+#negative       The iPad is a great device to takes on the go
+#negative       Usain Bolt is the fastest athlete
+#negative       CMPUT 274 is an honours course
+#negative       He slept at 4am yesterday
+#negative       5G connectivity is the future
+#negative       Soccer has a lot of fans around the world
+#negative       Beware! That is a slippery slope

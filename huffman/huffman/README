@@ -1,0 +1,23 @@
+Name: Nidal Naseem
+ID #: 1635297
+CMPUT 274 Fa20
+
+Assignment 2: Huffman
+
+Included Files:
+    * util.py
+    * README
+
+Accessories: None needed
+
+Wiring Instructions: None needed
+
+Running Instructions:
+    1. Change directory to the one containing decompressor and/or compressor
+       (in this case decompress.py and compress.py)
+    2. Import util.py with the decompressor/compressor
+
+Notes & Assumptions:
+    1. util.py is to be imported by a compressor/decompressor
+       (which derives the file to be compressed/decompressed) 
+       and does do not do anything on its own

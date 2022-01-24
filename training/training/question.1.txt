@@ -1,0 +1,15 @@
+I began with the theme of universe/space and selected words that are 
+often used in space-related facts/sentences as pos features for the training set. 
+
+"Space, planet, moon, galaxy, Earth", were some of the pos features for the 
+training set. These words were chosen because they solely relate to
+extraterrestrial objects. Some possible pos features such as 
+"world, biggest, tallest", were not used because these are words 
+used in other sectors/phases too.
+
+The pos features are very crucial to approximate the required number 
+of positive and negative instances, TPs and TNs, which steadily increases the
+accuracy of the training set. Initially, with 20 positive and negatives instances
+I obtained an accuracy of 0.63, which was improved by the addition of positive
+TP (positive training instances containing pos features) and TN
+(negative training instances not having any of the pos features)

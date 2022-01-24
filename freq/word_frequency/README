@@ -1,0 +1,22 @@
+Name: Nidal Naseem
+ID #: 1635297
+CMPUT 274 Fa20
+
+Exercise 3: Word Frequency
+
+Included Files:
+    * freq.py
+    * README
+
+Accessories: None needed
+
+Wiring Instructions: None needed
+
+Running Instructions:
+    1. Change directory to the one containing the file freq.py and 
+       the file to read data from.
+    2. Execute python3 freq.py <filename to be read from> on the terminal
+
+Notes & Assumptions:
+    1. Program is run with the file in the same directory as freq.py
+    2. freq.py is not to be imported
